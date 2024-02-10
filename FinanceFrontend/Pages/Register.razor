@@ -1,0 +1,43 @@
+﻿@page "/register"
+@using FinanceFrontend.DTO;
+@using FinanceFrontend.Services
+@inject AuthenticationService AuthService
+@inject NavigationManager NavigationManager
+
+<div class="auth-container">
+    <EditForm Model="@userRegistrationDto" OnValidSubmit="HandleRegister">
+        <DataAnnotationsValidator />
+        <ValidationSummary />
+
+        <div>
+            <InputText @bind-Value="userRegistrationDto.Username" placeholder="Username" />
+            <InputText @bind-Value="userRegistrationDto.Email" placeholder="Email" />
+            <InputText @bind-Value="userRegistrationDto.Password" type="password" placeholder="Password" />
+
+            <button type="submit">Register</button>
+        </div>
+    </EditForm>
+
+    @if (!string.IsNullOrWhiteSpace(errorMessage))
+    {
+        <p class="error-message">@errorMessage</p>
+    }
+</div>
+
+@code {
+    UserRegistrationDto userRegistrationDto = new UserRegistrationDto();
+    string errorMessage;
+
+    async Task HandleRegister()
+    {
+        var success = await AuthService.Register(userRegistrationDto);
+        if (success)
+        {
+            NavigationManager.NavigateTo("/login");
+        }
+        else
+        {
+            errorMessage = "Registration failed. Please check your details and try again.";
+        }
+    }
+}

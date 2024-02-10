@@ -1,0 +1,40 @@
+﻿@inherits LayoutComponentBase
+
+<div class="page">
+    <div class="sidebar">
+        <NavMenu />
+    </div>
+
+    <div class="main">
+        <div class="top-row px-4">
+            <NavLink class="nav-link" href="login">Login</NavLink>
+            <NavLink class="nav-link" href="register">Register</NavLink>
+            <a class="nav-link" href="https://docs.microsoft.com/aspnet/" target="_blank">About</a>
+        </div>
+        <article class="content px-4">
+            @Body
+        </article>
+    </div>
+</div>
+
+<style>
+    .page {
+        display: flex;
+        flex-direction: row;
+    }
+    .sidebar {
+        /* Adjust the width as per your design */
+        width: 200px;
+    }
+    .main {
+        flex-grow: 1;
+    }
+    .top-row {
+        display: flex;
+        justify-content: flex-end;
+        padding: 10px;
+    }
+    .nav-link {
+        margin-left: 10px;
+    }
+</style>

@@ -1,0 +1,56 @@
+﻿@using FinanceFrontend.DTO;
+@using FinanceFrontend.Services
+@inject AuthenticationService AuthService
+@inject NavigationManager NavigationManager
+
+<div class="auth-container">
+    <div>
+        <input @bind="username" placeholder="Username" />
+        <input @bind="password" type="password" placeholder="Password" />
+
+        <button @onclick="Login">Login</button>
+        <button @onclick="Register">Register</button>
+
+        @if (!string.IsNullOrWhiteSpace(errorMessage))
+        {
+            <p class="error-message">@errorMessage</p>
+        }
+    </div>
+</div>
+
+@code {
+    string username;
+    string password;
+    string errorMessage;
+
+    async Task Login()
+    {
+        errorMessage = ""; // Clear previous error message
+        var userLoginDto = new UserLoginDto { Username = username, Password = password };
+        var success = await AuthService.Login(userLoginDto);
+        if (success)
+        {
+            NavigationManager.NavigateTo("/dashboard"); // Adjust as necessary
+        }
+        else
+        {
+            errorMessage = "Login failed. Please check your credentials and try again.";
+        }
+    }
+
+    async Task Register()
+    {
+        errorMessage = ""; // Clear previous error message
+        var userRegistrationDto = new UserRegistrationDto { Username = username, Password = password };
+        var success = await AuthService.Register(userRegistrationDto);
+        if (success)
+        {
+            // Optionally log the user in immediately after registration, or navigate them to a login page
+            await Login(); // Log in immediately after registering using the same credentials
+        }
+        else
+        {
+            errorMessage = "Registration failed. Please try a different username.";
+        }
+    }
+}
