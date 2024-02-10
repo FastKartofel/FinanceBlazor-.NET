@@ -20,6 +20,6 @@ This project is a comprehensive finance management application enabling users to
 - Create a new SQL Server database.
 - Update the appsettings.json in the API project with your database connection string under the DefaultConnection key.
 ## Running the Project
--Backend: Navigate to the API project directory and run dotnet run.
--Frontend: Navigate to the Blazor project directory and run dotnet run.
+- Backend: Navigate to the API project directory and run dotnet run.
+- Frontend: Navigate to the Blazor project directory and run dotnet run.
 Ensure both projects are running for the application to function properly.
