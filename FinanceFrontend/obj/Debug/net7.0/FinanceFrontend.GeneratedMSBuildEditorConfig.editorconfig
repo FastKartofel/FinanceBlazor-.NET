@@ -9,53 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = FinanceFrontend
 build_property.RootNamespace = FinanceFrontend
-build_property.ProjectDir = C:\Users\paddy\OneDrive\Pulpit\.NETfinance\FinanceFrontend\
+build_property.ProjectDir = C:\Users\paddy\OneDrive\Pulpit\.NETfinance\FinanceBlazor-.NET\FinanceFrontend\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\paddy\OneDrive\Pulpit\.NETfinance\FinanceFrontend
+build_property.MSBuildProjectDirectory = C:\Users\paddy\OneDrive\Pulpit\.NETfinance\FinanceBlazor-.NET\FinanceFrontend
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/paddy/OneDrive/Pulpit/.NETfinance/FinanceFrontend/App.razor]
+[C:/Users/paddy/OneDrive/Pulpit/.NETfinance/FinanceBlazor-.NET/FinanceFrontend/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/paddy/OneDrive/Pulpit/.NETfinance/FinanceFrontend/Pages/AuthenticationServiceImpl.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aGVudGljYXRpb25TZXJ2aWNlSW1wbC5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/paddy/OneDrive/Pulpit/.NETfinance/FinanceFrontend/Pages/Counter.razor]
+[C:/Users/paddy/OneDrive/Pulpit/.NETfinance/FinanceBlazor-.NET/FinanceFrontend/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/paddy/OneDrive/Pulpit/.NETfinance/FinanceFrontend/Pages/FetchData.razor]
+[C:/Users/paddy/OneDrive/Pulpit/.NETfinance/FinanceBlazor-.NET/FinanceFrontend/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/paddy/OneDrive/Pulpit/.NETfinance/FinanceFrontend/Pages/Index.razor]
+[C:/Users/paddy/OneDrive/Pulpit/.NETfinance/FinanceBlazor-.NET/FinanceFrontend/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/paddy/OneDrive/Pulpit/.NETfinance/FinanceFrontend/Pages/Login.razor]
+[C:/Users/paddy/OneDrive/Pulpit/.NETfinance/FinanceBlazor-.NET/FinanceFrontend/Pages/Login.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/paddy/OneDrive/Pulpit/.NETfinance/FinanceFrontend/Pages/Register.razor]
+[C:/Users/paddy/OneDrive/Pulpit/.NETfinance/FinanceBlazor-.NET/FinanceFrontend/Pages/Plan.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGxhbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/paddy/OneDrive/Pulpit/.NETfinance/FinanceBlazor-.NET/FinanceFrontend/Pages/Register.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/paddy/OneDrive/Pulpit/.NETfinance/FinanceFrontend/Shared/SurveyPrompt.razor]
+[C:/Users/paddy/OneDrive/Pulpit/.NETfinance/FinanceBlazor-.NET/FinanceFrontend/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/paddy/OneDrive/Pulpit/.NETfinance/FinanceFrontend/_Imports.razor]
+[C:/Users/paddy/OneDrive/Pulpit/.NETfinance/FinanceBlazor-.NET/FinanceFrontend/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/paddy/OneDrive/Pulpit/.NETfinance/FinanceFrontend/Shared/MainLayout.razor]
+[C:/Users/paddy/OneDrive/Pulpit/.NETfinance/FinanceBlazor-.NET/FinanceFrontend/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-lqjsgsezkx
 
-[C:/Users/paddy/OneDrive/Pulpit/.NETfinance/FinanceFrontend/Shared/NavMenu.razor]
+[C:/Users/paddy/OneDrive/Pulpit/.NETfinance/FinanceBlazor-.NET/FinanceFrontend/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-oskz5thkn0

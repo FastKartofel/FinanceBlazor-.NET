@@ -12,10 +12,7 @@ builder.RootComponents.Add<HeadOutlet>("head::after");
 builder.Services.AddBlazoredLocalStorage();
 
 // Register a named HttpClient for interacting with your backend API
-builder.Services.AddHttpClient("FinanceAPI", client =>
-{
-    client.BaseAddress = new Uri("https://localhost:7155/"); // Ensure this matches your actual API's URL
-});
+builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri("https://localhost:7155/") });
 
 // Register AuthenticationService
 builder.Services.AddScoped<AuthenticationService>();

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceAPI\\FinanceAPI\\FinanceAPI.csproj": {}
+    "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\FinanceAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceAPI\\FinanceAPI\\FinanceAPI.csproj": {
+    "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\FinanceAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceAPI\\FinanceAPI\\FinanceAPI.csproj",
+        "projectUniqueName": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\FinanceAPI.csproj",
         "projectName": "FinanceAPI",
-        "projectPath": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceAPI\\FinanceAPI\\FinanceAPI.csproj",
+        "projectPath": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\FinanceAPI.csproj",
         "packagesPath": "C:\\Users\\paddy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceAPI\\FinanceAPI\\obj\\",
+        "outputPath": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\paddy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,6 +65,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.15, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

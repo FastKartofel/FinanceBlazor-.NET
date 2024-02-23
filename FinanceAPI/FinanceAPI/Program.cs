@@ -7,10 +7,14 @@ using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.WebHost.UseUrls("https://localhost:7155");
+
 // Add services to the container.
 builder.Services.AddDbContext<FinanceDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 builder.Services.AddScoped<IAuthService, AuthService>();
+builder.Services.AddScoped<ICompanyService, CompanyService>();
+
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
@@ -24,25 +28,30 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
         {
             ValidateIssuerSigningKey = true,
             IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["Jwt:Key"])),
-            ValidateIssuer = true,
-            ValidateAudience = true,
+            ValidateIssuer = bool.Parse(builder.Configuration["Jwt:ValidateIssuer"]),
+            ValidateAudience = bool.Parse(builder.Configuration["Jwt:ValidateAudience"]),
             ValidIssuer = builder.Configuration["Jwt:Issuer"],
             ValidAudience = builder.Configuration["Jwt:Audience"]
         };
     });
 
-// Add CORS policy if needed, configure as per your requirements
+// Adding CORS policy if needed, configure as per your requirements
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("CorsPolicy", policy =>
+    options.AddPolicy("AllowWebApp", policy =>
     {
-        policy.WithOrigins("https://localhost:7188;http://localhost:5191") // The URI where your Blazor app is hosted
+        policy.WithOrigins("https://localhost:7188") 
               .AllowAnyHeader()
               .AllowAnyMethod();
     });
 });
 
 
+// connecting to Polygon.io
+builder.Services.AddHttpClient<ICompanyService, CompanyService>(client =>
+{
+    client.BaseAddress = new Uri("https://api.polygon.io/");
+});
 
 var app = builder.Build();
 
@@ -53,11 +62,11 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseCors("CorsPolicy");
+app.UseCors("AllowWebApp");
 
 app.UseHttpsRedirection();
 
-app.UseAuthentication(); // Make sure to call UseAuthentication before UseAuthorization
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();

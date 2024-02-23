@@ -6,6 +6,13 @@
 
 <h3>Login</h3>
 
+@if (!string.IsNullOrEmpty(errorMessage))
+{
+    <div class="alert alert-danger" role="alert">
+        @errorMessage
+    </div>
+}
+
 <div>
     <input @bind="loginDto.Username" placeholder="Username" />
     <input type="password" @bind="loginDto.Password" placeholder="Password" />
@@ -14,18 +21,18 @@
 
 @code {
     UserLoginDto loginDto = new UserLoginDto();
-    string errormessage;
+    string errorMessage;
 
     async Task HandleLogin()
     {
-        var success = await AuthService.Login(loginDto);
+        var (success, message, redirectTo) = await AuthService.Login(loginDto);
         if (success)
         {
-            NavManager.NavigateTo("/");
+            NavManager.NavigateTo(redirectTo);
         }
         else
         {
-            errormessage = "Wrong credentials try again!";
+            errorMessage = message; // Display the error message from the login attempt
         }
     }
 }

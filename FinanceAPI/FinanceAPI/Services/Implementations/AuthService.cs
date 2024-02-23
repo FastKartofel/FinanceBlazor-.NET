@@ -39,7 +39,7 @@ public class AuthService : IAuthService
         var user = await _context.Users.FirstOrDefaultAsync(u => u.Username == username);
         if (user == null || !VerifyPasswordHash(password, user.PasswordHash, user.PasswordSalt))
         {
-            return null; // Either user not found or password doesn't match
+            return "Password incorrect or user does not exist, try again!";
         }
 
         return GenerateJwtToken(user);

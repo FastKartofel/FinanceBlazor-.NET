@@ -41,24 +41,18 @@ namespace FinanceAPI.Controllers
             {
                 Username = userDto.Username,
                 Email = userDto.Email
-                // PasswordHash and PasswordSalt will be set within the AuthService
             };
 
             var createdUser = await _authService.Register(user, userDto.Password);
 
-            if (createdUser == null)
+            if (createdUser != null)
             {
-                return BadRequest("Could not create user");
+                return Ok("Registration successful. Please log in.");
             }
-
-            var userResponse = new UserResponseDTO
+            else
             {
-                UserId = createdUser.UserId,
-                Username = createdUser.Username,
-                Email = createdUser.Email
-            };
-
-            return StatusCode(201, userResponse);
+                return BadRequest("Could not register user.");
+            }
         }
 
         [HttpPost("login")]
@@ -71,7 +65,7 @@ namespace FinanceAPI.Controllers
                 return Unauthorized("Invalid username or password");
             }
 
-            return Ok(new { token = token });
+            return Ok(new { token });
         }
     }
 }

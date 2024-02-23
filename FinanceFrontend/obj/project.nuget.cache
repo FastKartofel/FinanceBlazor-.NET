@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+5RNVzNTMxn8cC+UnwuGMruDqoekcDCuMdQnnSZgSElYQt80m17OIWsoKgE1QGQTBq6smrmI4T4LeA2ZySfYCA==",
+  "dgSpecHash": "szel39+MZxX20/3L2Laa+iIkDjIkd6Tpf2mmXY4rzLfzf7Fgbgl2IbTGp0GbEdWTpFNXTFmXl/1rJdN16TBWHQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceFrontend\\FinanceFrontend.csproj",
+  "projectFilePath": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceFrontend\\FinanceFrontend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\paddy\\.nuget\\packages\\blazored.localstorage\\4.5.0\\blazored.localstorage.4.5.0.nupkg.sha512",
     "C:\\Users\\paddy\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.13\\microsoft.aspnetcore.authorization.7.0.13.nupkg.sha512",

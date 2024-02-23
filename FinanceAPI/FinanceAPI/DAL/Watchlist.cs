@@ -13,5 +13,4 @@ namespace FinanceAPI.DAL
 
         public ICollection<Company> Companies { get; set; } 
     }
-
 }

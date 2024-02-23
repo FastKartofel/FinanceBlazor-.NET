@@ -1919,11 +1919,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceFrontend\\FinanceFrontend.csproj",
+      "projectUniqueName": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceFrontend\\FinanceFrontend.csproj",
       "projectName": "FinanceFrontend",
-      "projectPath": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceFrontend\\FinanceFrontend.csproj",
+      "projectPath": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceFrontend\\FinanceFrontend.csproj",
       "packagesPath": "C:\\Users\\paddy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceFrontend\\obj\\",
+      "outputPath": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceFrontend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\paddy\\AppData\\Roaming\\NuGet\\NuGet.Config",

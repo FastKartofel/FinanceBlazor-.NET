@@ -33,6 +33,7 @@
         var success = await AuthService.Register(userRegistrationDto);
         if (success)
         {
+            // Redirect to the login page upon successful registration
             NavigationManager.NavigateTo("/login");
         }
         else

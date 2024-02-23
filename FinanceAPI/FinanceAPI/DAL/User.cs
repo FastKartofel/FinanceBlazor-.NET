@@ -16,12 +16,10 @@ namespace FinanceAPI.DAL
         [EmailAddress]
         public string Email { get; set; }
 
-        [Required]
         public byte[] PasswordHash { get; set; }
 
         public byte[] PasswordSalt { get; set; }
 
         public ICollection<Watchlist> Watchlists { get; set; }
     }
-
 }
