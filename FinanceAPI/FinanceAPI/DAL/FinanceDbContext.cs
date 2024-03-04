@@ -31,6 +31,7 @@ namespace FinanceAPI.DAL
                 .HasMany(w => w.Companies)
                 .WithMany(c => c.Watchlists)
                 .UsingEntity(j => j.ToTable("WatchlistCompanies"));
+
         }
     }
 }

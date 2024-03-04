@@ -1,0 +1,54 @@
+﻿@page "/companysearch"
+@using FinanceFrontend.DTO
+@inject CompanyService CompanyService
+
+<div class="search-container">
+    <InputText @bind-Value="searchQuery" class="search-input" placeholder="Enter company name or ticker..." />
+    <button @onclick="Search" class="search-button">Search</button>
+</div>
+
+@if (isLoading)
+{
+    <p>Loading...</p>
+}
+else if (searchResults != null && searchResults.Any())
+{
+    <div class="results-container">
+        @foreach (var company in searchResults)
+        {
+            <div class="result-item">
+                <p><strong>@company.Name</strong> (@company.TickerSymbol)</p>
+                <!-- Optionally, add more details here -->
+            </div>
+        }
+    </div>
+}
+else if (searchExecuted)
+{
+    <p>No results found. Try a different search term.</p>
+}
+
+@code {
+    private string searchQuery;
+    private IEnumerable<CompanyDTO> searchResults;
+    private bool isLoading = false;
+    private bool searchExecuted = false;
+
+    private async Task Search()
+    {
+        isLoading = true;
+        try
+        {
+            searchResults = await CompanyService.SearchCompanies(searchQuery);
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error occurred: {ex.Message}");
+            // Handle the error appropriately
+        }
+        isLoading = false;
+    }
+
+
+
+}

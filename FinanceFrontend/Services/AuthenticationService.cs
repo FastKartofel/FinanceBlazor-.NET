@@ -42,7 +42,6 @@ namespace FinanceFrontend.Services
             }
         }
 
-
         // Updated to include redirection logic
         public async Task<(bool Success, string Message, string RedirectTo)> Login(UserLoginDto userLogin)
         {
@@ -55,7 +54,7 @@ namespace FinanceFrontend.Services
                     var token = loginResponse.Token;
                     await _localStorage.SetItemAsync("authToken", token);
                     _httpClient.DefaultRequestHeaders.Authorization = new System.Net.Http.Headers.AuthenticationHeaderValue("Bearer", token);
-                    return (true, "Login successful", "/plan"); // Use the RedirectTo property if needed
+                    return (true, "Login successful", "/companysearch"); // Use the RedirectTo property if needed
                 }
                 else
                 {

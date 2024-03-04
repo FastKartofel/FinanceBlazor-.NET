@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "szel39+MZxX20/3L2Laa+iIkDjIkd6Tpf2mmXY4rzLfzf7Fgbgl2IbTGp0GbEdWTpFNXTFmXl/1rJdN16TBWHQ==",
+  "dgSpecHash": "o4WzcAXhcPz8aTkvWQq1ejh6Np6wY3DK3Rvr5PHmMCzvSRzCUZ/1xPgVs/qLZTolUoKzQW6x7rnA9RDUMYGLCQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceFrontend\\FinanceFrontend.csproj",
   "expectedPackageFiles": [
@@ -30,10 +30,13 @@
     "C:\\Users\\paddy\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\paddy\\.nuget\\packages\\microsoft.jsinterop\\7.0.13\\microsoft.jsinterop.7.0.13.nupkg.sha512",
     "C:\\Users\\paddy\\.nuget\\packages\\microsoft.jsinterop.webassembly\\7.0.13\\microsoft.jsinterop.webassembly.7.0.13.nupkg.sha512",
+    "C:\\Users\\paddy\\.nuget\\packages\\microsoft.net.illink.analyzers\\7.0.100-1.23211.1\\microsoft.net.illink.analyzers.7.0.100-1.23211.1.nupkg.sha512",
+    "C:\\Users\\paddy\\.nuget\\packages\\microsoft.net.illink.tasks\\7.0.100-1.23211.1\\microsoft.net.illink.tasks.7.0.100-1.23211.1.nupkg.sha512",
+    "C:\\Users\\paddy\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.2\\microsoft.net.sdk.webassembly.pack.8.0.2.nupkg.sha512",
     "C:\\Users\\paddy\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512",
     "C:\\Users\\paddy\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\paddy\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
-    "C:\\Users\\paddy\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.12\\microsoft.netcore.app.runtime.mono.browser-wasm.7.0.12.nupkg.sha512"
+    "C:\\Users\\paddy\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.16\\microsoft.netcore.app.runtime.mono.browser-wasm.7.0.16.nupkg.sha512"
   ],
   "logs": []
 }

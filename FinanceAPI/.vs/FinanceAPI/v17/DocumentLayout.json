@@ -1,0 +1,755 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|c:\\users\\paddy\\onedrive\\pulpit\\.netfinance\\financeblazor-.net\\financeapi\\financeapi\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|solutionrelative:financeapi\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|c:\\users\\paddy\\onedrive\\pulpit\\.netfinance\\financeblazor-.net\\financeapi\\financeapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|solutionrelative:financeapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E63E27-E8C5-4CCA-AECC-AA92A57623F9}|..\\FinanceFrontend\\FinanceFrontend.csproj|c:\\users\\paddy\\onedrive\\pulpit\\.netfinance\\financeblazor-.net\\financefrontend\\services\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E63E27-E8C5-4CCA-AECC-AA92A57623F9}|..\\FinanceFrontend\\FinanceFrontend.csproj|c:\\users\\paddy\\onedrive\\pulpit\\.netfinance\\financeblazor-.net\\financefrontend\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E63E27-E8C5-4CCA-AECC-AA92A57623F9}|..\\FinanceFrontend\\FinanceFrontend.csproj|c:\\users\\paddy\\onedrive\\pulpit\\.netfinance\\financeblazor-.net\\financefrontend\\shared\\surveyprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|c:\\users\\paddy\\onedrive\\pulpit\\.netfinance\\financeblazor-.net\\financeapi\\financeapi\\dal\\watchlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|solutionrelative:financeapi\\dal\\watchlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|c:\\users\\paddy\\onedrive\\pulpit\\.netfinance\\financeblazor-.net\\financeapi\\financeapi\\dal\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|solutionrelative:financeapi\\dal\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|c:\\users\\paddy\\onedrive\\pulpit\\.netfinance\\financeblazor-.net\\financeapi\\financeapi\\dal\\financedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|solutionrelative:financeapi\\dal\\financedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|c:\\users\\paddy\\onedrive\\pulpit\\.netfinance\\financeblazor-.net\\financeapi\\financeapi\\dal\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|solutionrelative:financeapi\\dal\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|c:\\users\\paddy\\onedrive\\pulpit\\.netfinance\\financeblazor-.net\\financeapi\\financeapi\\controllers\\watchlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|solutionrelative:financeapi\\controllers\\watchlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|c:\\users\\paddy\\onedrive\\pulpit\\.netfinance\\financeblazor-.net\\financeapi\\financeapi\\controllers\\plancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|solutionrelative:financeapi\\controllers\\plancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E63E27-E8C5-4CCA-AECC-AA92A57623F9}|..\\FinanceFrontend\\FinanceFrontend.csproj|c:\\users\\paddy\\onedrive\\pulpit\\.netfinance\\financeblazor-.net\\financefrontend\\pages\\searchcompanies.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E63E27-E8C5-4CCA-AECC-AA92A57623F9}|..\\FinanceFrontend\\FinanceFrontend.csproj|c:\\users\\paddy\\onedrive\\pulpit\\.netfinance\\financeblazor-.net\\financefrontend\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E63E27-E8C5-4CCA-AECC-AA92A57623F9}|..\\FinanceFrontend\\FinanceFrontend.csproj|c:\\users\\paddy\\onedrive\\pulpit\\.netfinance\\financeblazor-.net\\financefrontend\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E63E27-E8C5-4CCA-AECC-AA92A57623F9}|..\\FinanceFrontend\\FinanceFrontend.csproj|c:\\users\\paddy\\onedrive\\pulpit\\.netfinance\\financeblazor-.net\\financefrontend\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E63E27-E8C5-4CCA-AECC-AA92A57623F9}|..\\FinanceFrontend\\FinanceFrontend.csproj|c:\\users\\paddy\\onedrive\\pulpit\\.netfinance\\financeblazor-.net\\financefrontend\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E63E27-E8C5-4CCA-AECC-AA92A57623F9}|..\\FinanceFrontend\\FinanceFrontend.csproj|c:\\users\\paddy\\onedrive\\pulpit\\.netfinance\\financeblazor-.net\\financefrontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E63E27-E8C5-4CCA-AECC-AA92A57623F9}|..\\FinanceFrontend\\FinanceFrontend.csproj|c:\\users\\paddy\\onedrive\\pulpit\\.netfinance\\financeblazor-.net\\financefrontend\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E63E27-E8C5-4CCA-AECC-AA92A57623F9}|..\\FinanceFrontend\\FinanceFrontend.csproj|c:\\users\\paddy\\onedrive\\pulpit\\.netfinance\\financeblazor-.net\\financefrontend\\dto\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E63E27-E8C5-4CCA-AECC-AA92A57623F9}|..\\FinanceFrontend\\FinanceFrontend.csproj|c:\\users\\paddy\\onedrive\\pulpit\\.netfinance\\financeblazor-.net\\financefrontend\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|c:\\users\\paddy\\onedrive\\pulpit\\.netfinance\\financeblazor-.net\\financeapi\\financeapi\\services\\implementations\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|solutionrelative:financeapi\\services\\implementations\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|c:\\users\\paddy\\onedrive\\pulpit\\.netfinance\\financeblazor-.net\\financeapi\\financeapi\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|solutionrelative:financeapi\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E63E27-E8C5-4CCA-AECC-AA92A57623F9}|..\\FinanceFrontend\\FinanceFrontend.csproj|c:\\users\\paddy\\onedrive\\pulpit\\.netfinance\\financeblazor-.net\\financefrontend\\dto\\companydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E63E27-E8C5-4CCA-AECC-AA92A57623F9}|..\\FinanceFrontend\\FinanceFrontend.csproj|c:\\users\\paddy\\onedrive\\pulpit\\.netfinance\\financeblazor-.net\\financefrontend\\dto\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E63E27-E8C5-4CCA-AECC-AA92A57623F9}|..\\FinanceFrontend\\FinanceFrontend.csproj|c:\\users\\paddy\\onedrive\\pulpit\\.netfinance\\financeblazor-.net\\financefrontend\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E63E27-E8C5-4CCA-AECC-AA92A57623F9}|..\\FinanceFrontend\\FinanceFrontend.csproj|c:\\users\\paddy\\onedrive\\pulpit\\.netfinance\\financeblazor-.net\\financefrontend\\pages\\plan.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E63E27-E8C5-4CCA-AECC-AA92A57623F9}|..\\FinanceFrontend\\FinanceFrontend.csproj|c:\\users\\paddy\\onedrive\\pulpit\\.netfinance\\financeblazor-.net\\financefrontend\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|c:\\users\\paddy\\onedrive\\pulpit\\.netfinance\\financeblazor-.net\\financeapi\\financeapi\\dto\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|solutionrelative:financeapi\\dto\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|c:\\users\\paddy\\onedrive\\pulpit\\.netfinance\\financeblazor-.net\\financeapi\\financeapi\\dto\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|solutionrelative:financeapi\\dto\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|c:\\users\\paddy\\onedrive\\pulpit\\.netfinance\\financeblazor-.net\\financeapi\\financeapi\\dto\\ohlcdatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|solutionrelative:financeapi\\dto\\ohlcdatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|c:\\users\\paddy\\onedrive\\pulpit\\.netfinance\\financeblazor-.net\\financeapi\\financeapi\\dto\\polygonohlcresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|solutionrelative:financeapi\\dto\\polygonohlcresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|c:\\users\\paddy\\onedrive\\pulpit\\.netfinance\\financeblazor-.net\\financeapi\\financeapi\\dto\\companydetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|solutionrelative:financeapi\\dto\\companydetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|c:\\users\\paddy\\onedrive\\pulpit\\.netfinance\\financeblazor-.net\\financeapi\\financeapi\\services\\interfaces\\icompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|solutionrelative:financeapi\\services\\interfaces\\icompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E63E27-E8C5-4CCA-AECC-AA92A57623F9}|..\\FinanceFrontend\\FinanceFrontend.csproj|c:\\users\\paddy\\onedrive\\pulpit\\.netfinance\\financeblazor-.net\\financefrontend\\dto\\userregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|c:\\users\\paddy\\onedrive\\pulpit\\.netfinance\\financeblazor-.net\\financeapi\\financeapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|solutionrelative:financeapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|c:\\users\\paddy\\onedrive\\pulpit\\.netfinance\\financeblazor-.net\\financeapi\\financeapi\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|solutionrelative:financeapi\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|c:\\users\\paddy\\onedrive\\pulpit\\.netfinance\\financeblazor-.net\\financeapi\\financeapi\\dto\\polygoncompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|solutionrelative:financeapi\\dto\\polygoncompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|c:\\users\\paddy\\onedrive\\pulpit\\.netfinance\\financeblazor-.net\\financeapi\\financeapi\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|solutionrelative:financeapi\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|c:\\users\\paddy\\onedrive\\pulpit\\.netfinance\\financeblazor-.net\\financeapi\\financeapi\\migrations\\financedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|solutionrelative:financeapi\\migrations\\financedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|c:\\users\\paddy\\onedrive\\pulpit\\.netfinance\\financeblazor-.net\\financeapi\\financeapi\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|solutionrelative:financeapi\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|c:\\users\\paddy\\onedrive\\pulpit\\.netfinance\\financeblazor-.net\\financeapi\\financeapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|solutionrelative:financeapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|c:\\users\\paddy\\onedrive\\pulpit\\.netfinance\\financeblazor-.net\\financeapi\\financeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|solutionrelative:financeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|c:\\users\\paddy\\onedrive\\pulpit\\.netfinance\\financeblazor-.net\\financeapi\\financeapi\\financeapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|solutionrelative:financeapi\\financeapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E63E27-E8C5-4CCA-AECC-AA92A57623F9}|..\\FinanceFrontend\\FinanceFrontend.csproj|c:\\users\\paddy\\onedrive\\pulpit\\.netfinance\\financeblazor-.net\\financefrontend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E63E27-E8C5-4CCA-AECC-AA92A57623F9}|..\\FinanceFrontend\\FinanceFrontend.csproj|c:\\users\\paddy\\onedrive\\pulpit\\.netfinance\\financeblazor-.net\\financefrontend\\financefrontend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E63E27-E8C5-4CCA-AECC-AA92A57623F9}|..\\FinanceFrontend\\FinanceFrontend.csproj|c:\\users\\paddy\\onedrive\\pulpit\\.netfinance\\financeblazor-.net\\financefrontend\\financefrontend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|c:\\users\\paddy\\onedrive\\pulpit\\.netfinance\\financeblazor-.net\\financeapi\\financeapi\\migrations\\20240208214012_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300E0C9B-DDD7-4B0C-AF32-35620E7431A9}|FinanceAPI\\FinanceAPI.csproj|solutionrelative:financeapi\\migrations\\20240208214012_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Watchlist.cs",
+              "DocumentMoniker": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\DAL\\Watchlist.cs",
+              "RelativeDocumentMoniker": "FinanceAPI\\DAL\\Watchlist.cs",
+              "ToolTip": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\DAL\\Watchlist.cs",
+              "RelativeToolTip": "FinanceAPI\\DAL\\Watchlist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-12T07:19:56.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SurveyPrompt.razor",
+              "DocumentMoniker": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceFrontend\\Shared\\SurveyPrompt.razor",
+              "RelativeDocumentMoniker": "..\\FinanceFrontend\\Shared\\SurveyPrompt.razor",
+              "ToolTip": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceFrontend\\Shared\\SurveyPrompt.razor",
+              "RelativeToolTip": "..\\FinanceFrontend\\Shared\\SurveyPrompt.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-12T07:19:56.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceFrontend\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "..\\FinanceFrontend\\Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceFrontend\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "..\\FinanceFrontend\\Shared\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-12T07:19:56.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CompanyService.cs",
+              "DocumentMoniker": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceFrontend\\Services\\CompanyService.cs",
+              "RelativeDocumentMoniker": "..\\FinanceFrontend\\Services\\CompanyService.cs",
+              "ToolTip": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceFrontend\\Services\\CompanyService.cs",
+              "RelativeToolTip": "..\\FinanceFrontend\\Services\\CompanyService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T15:57:55.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WatchlistController.cs",
+              "DocumentMoniker": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\Controllers\\WatchlistController.cs",
+              "RelativeDocumentMoniker": "FinanceAPI\\Controllers\\WatchlistController.cs",
+              "ToolTip": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\Controllers\\WatchlistController.cs",
+              "RelativeToolTip": "FinanceAPI\\Controllers\\WatchlistController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T15:36:03.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "FinanceAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "FinanceAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAUwCQAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-12T07:19:56.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\Controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "FinanceAPI\\Controllers\\CompanyController.cs",
+              "ToolTip": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\Controllers\\CompanyController.cs",
+              "RelativeToolTip": "FinanceAPI\\Controllers\\CompanyController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T15:35:13.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\DAL\\User.cs",
+              "RelativeDocumentMoniker": "FinanceAPI\\DAL\\User.cs",
+              "ToolTip": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\DAL\\User.cs",
+              "RelativeToolTip": "FinanceAPI\\DAL\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-12T07:19:56.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FinanceDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\DAL\\FinanceDbContext.cs",
+              "RelativeDocumentMoniker": "FinanceAPI\\DAL\\FinanceDbContext.cs",
+              "ToolTip": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\DAL\\FinanceDbContext.cs",
+              "RelativeToolTip": "FinanceAPI\\DAL\\FinanceDbContext.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACAAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-12T07:19:56.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\DAL\\Company.cs",
+              "RelativeDocumentMoniker": "FinanceAPI\\DAL\\Company.cs",
+              "ToolTip": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\DAL\\Company.cs",
+              "RelativeToolTip": "FinanceAPI\\DAL\\Company.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-12T07:19:56.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlanController.cs",
+              "DocumentMoniker": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\Controllers\\PlanController.cs",
+              "RelativeDocumentMoniker": "FinanceAPI\\Controllers\\PlanController.cs",
+              "ToolTip": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\Controllers\\PlanController.cs",
+              "RelativeToolTip": "FinanceAPI\\Controllers\\PlanController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T13:49:01.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SearchCompanies.razor",
+              "DocumentMoniker": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceFrontend\\Pages\\SearchCompanies.razor",
+              "RelativeDocumentMoniker": "..\\FinanceFrontend\\Pages\\SearchCompanies.razor",
+              "ToolTip": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceFrontend\\Pages\\SearchCompanies.razor",
+              "RelativeToolTip": "..\\FinanceFrontend\\Pages\\SearchCompanies.razor",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-25T15:56:28.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceFrontend\\DTO\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "..\\FinanceFrontend\\DTO\\UserLoginDto.cs",
+              "ToolTip": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceFrontend\\DTO\\UserLoginDto.cs",
+              "RelativeToolTip": "..\\FinanceFrontend\\DTO\\UserLoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-12T07:19:56.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceFrontend\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "..\\FinanceFrontend\\Pages\\Login.razor",
+              "ToolTip": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceFrontend\\Pages\\Login.razor",
+              "RelativeToolTip": "..\\FinanceFrontend\\Pages\\Login.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-12T07:19:56.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceFrontend\\_Imports.razor",
+              "RelativeDocumentMoniker": "..\\FinanceFrontend\\_Imports.razor",
+              "ToolTip": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceFrontend\\_Imports.razor",
+              "RelativeToolTip": "..\\FinanceFrontend\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-12T07:19:56.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceFrontend\\App.razor",
+              "RelativeDocumentMoniker": "..\\FinanceFrontend\\App.razor",
+              "ToolTip": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceFrontend\\App.razor",
+              "RelativeToolTip": "..\\FinanceFrontend\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-12T07:19:56.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceFrontend\\Program.cs",
+              "RelativeDocumentMoniker": "..\\FinanceFrontend\\Program.cs",
+              "ToolTip": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceFrontend\\Program.cs",
+              "RelativeToolTip": "..\\FinanceFrontend\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-12T07:19:56.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceFrontend\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "..\\FinanceFrontend\\wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceFrontend\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "..\\FinanceFrontend\\wwwroot\\css\\app.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-12T07:19:56.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceFrontend\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "..\\FinanceFrontend\\Services\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceFrontend\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "..\\FinanceFrontend\\Services\\AuthenticationService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-12T07:19:56.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Register.razor",
+              "DocumentMoniker": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceFrontend\\Pages\\Register.razor",
+              "RelativeDocumentMoniker": "..\\FinanceFrontend\\Pages\\Register.razor",
+              "ToolTip": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceFrontend\\Pages\\Register.razor",
+              "RelativeToolTip": "..\\FinanceFrontend\\Pages\\Register.razor",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-12T07:19:56.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CompanyService.cs",
+              "DocumentMoniker": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\Services\\Implementations\\CompanyService.cs",
+              "RelativeDocumentMoniker": "FinanceAPI\\Services\\Implementations\\CompanyService.cs",
+              "ToolTip": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\Services\\Implementations\\CompanyService.cs",
+              "RelativeToolTip": "FinanceAPI\\Services\\Implementations\\CompanyService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T15:44:17.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\Services\\Implementations\\AuthService.cs",
+              "RelativeDocumentMoniker": "FinanceAPI\\Services\\Implementations\\AuthService.cs",
+              "ToolTip": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\Services\\Implementations\\AuthService.cs",
+              "RelativeToolTip": "FinanceAPI\\Services\\Implementations\\AuthService.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAiwF0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-12T07:19:56.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CompanyDTO.cs",
+              "DocumentMoniker": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceFrontend\\DTO\\CompanyDTO.cs",
+              "RelativeDocumentMoniker": "..\\FinanceFrontend\\DTO\\CompanyDTO.cs",
+              "ToolTip": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceFrontend\\DTO\\CompanyDTO.cs",
+              "RelativeToolTip": "..\\FinanceFrontend\\DTO\\CompanyDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T19:54:04.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceFrontend\\DTO\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "..\\FinanceFrontend\\DTO\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceFrontend\\DTO\\LoginResponse.cs",
+              "RelativeToolTip": "..\\FinanceFrontend\\DTO\\LoginResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T14:32:26.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceFrontend\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "..\\FinanceFrontend\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceFrontend\\Pages\\Index.razor",
+              "RelativeToolTip": "..\\FinanceFrontend\\Pages\\Index.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-12T07:19:56.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Plan.razor",
+              "DocumentMoniker": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceFrontend\\Pages\\Plan.razor",
+              "RelativeDocumentMoniker": "..\\FinanceFrontend\\Pages\\Plan.razor",
+              "ToolTip": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceFrontend\\Pages\\Plan.razor",
+              "RelativeToolTip": "..\\FinanceFrontend\\Pages\\Plan.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-17T12:12:41.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceFrontend\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "..\\FinanceFrontend\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceFrontend\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "..\\FinanceFrontend\\Shared\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-12T07:19:56.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\DTO\\UserResponseDTO.cs",
+              "RelativeDocumentMoniker": "FinanceAPI\\DTO\\UserResponseDTO.cs",
+              "ToolTip": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\DTO\\UserResponseDTO.cs",
+              "RelativeToolTip": "FinanceAPI\\DTO\\UserResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-12T07:19:56.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\DTO\\Result.cs",
+              "RelativeDocumentMoniker": "FinanceAPI\\DTO\\Result.cs",
+              "ToolTip": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\DTO\\Result.cs",
+              "RelativeToolTip": "FinanceAPI\\DTO\\Result.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T19:44:57.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OHLCDataDTO.cs",
+              "DocumentMoniker": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\DTO\\OHLCDataDTO.cs",
+              "RelativeDocumentMoniker": "FinanceAPI\\DTO\\OHLCDataDTO.cs",
+              "ToolTip": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\DTO\\OHLCDataDTO.cs",
+              "RelativeToolTip": "FinanceAPI\\DTO\\OHLCDataDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T18:09:41.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PolygonOHLCResponse.cs",
+              "DocumentMoniker": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\DTO\\PolygonOHLCResponse.cs",
+              "RelativeDocumentMoniker": "FinanceAPI\\DTO\\PolygonOHLCResponse.cs",
+              "ToolTip": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\DTO\\PolygonOHLCResponse.cs",
+              "RelativeToolTip": "FinanceAPI\\DTO\\PolygonOHLCResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T19:44:23.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CompanyDetailsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\DTO\\CompanyDetailsDTO.cs",
+              "RelativeDocumentMoniker": "FinanceAPI\\DTO\\CompanyDetailsDTO.cs",
+              "ToolTip": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\DTO\\CompanyDetailsDTO.cs",
+              "RelativeToolTip": "FinanceAPI\\DTO\\CompanyDetailsDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T19:39:56.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ICompanyService.cs",
+              "DocumentMoniker": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\Services\\Interfaces\\ICompanyService.cs",
+              "RelativeDocumentMoniker": "FinanceAPI\\Services\\Interfaces\\ICompanyService.cs",
+              "ToolTip": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\Services\\Interfaces\\ICompanyService.cs",
+              "RelativeToolTip": "FinanceAPI\\Services\\Interfaces\\ICompanyService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T15:44:00.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserRegistrationDto.cs",
+              "DocumentMoniker": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceFrontend\\DTO\\UserRegistrationDto.cs",
+              "RelativeDocumentMoniker": "..\\FinanceFrontend\\DTO\\UserRegistrationDto.cs",
+              "ToolTip": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceFrontend\\DTO\\UserRegistrationDto.cs",
+              "RelativeToolTip": "..\\FinanceFrontend\\DTO\\UserRegistrationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-12T07:19:56.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FinanceAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FinanceAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-12T07:19:56.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "FinanceAPI\\DTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "FinanceAPI\\DTO\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-12T07:19:56.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PolygonCompany.cs",
+              "DocumentMoniker": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\DTO\\PolygonCompany.cs",
+              "RelativeDocumentMoniker": "FinanceAPI\\DTO\\PolygonCompany.cs",
+              "ToolTip": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\DTO\\PolygonCompany.cs",
+              "RelativeToolTip": "FinanceAPI\\DTO\\PolygonCompany.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T15:58:04.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "FinanceAPI\\DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "FinanceAPI\\DTO\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-12T07:19:56.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FinanceDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\Migrations\\FinanceDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "FinanceAPI\\Migrations\\FinanceDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\Migrations\\FinanceDbContextModelSnapshot.cs",
+              "RelativeToolTip": "FinanceAPI\\Migrations\\FinanceDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAUwIUAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-12T07:19:56.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "FinanceAPI\\Services\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "FinanceAPI\\Services\\Interfaces\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-12T07:19:56.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "FinanceAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\appsettings.json",
+              "RelativeToolTip": "FinanceAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-12T07:19:56.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\Program.cs",
+              "RelativeDocumentMoniker": "FinanceAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\Program.cs",
+              "RelativeToolTip": "FinanceAPI\\Program.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAUwDoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-12T07:19:56.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FinanceAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\FinanceAPI.csproj",
+              "RelativeDocumentMoniker": "FinanceAPI\\FinanceAPI.csproj",
+              "ToolTip": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\FinanceAPI.csproj",
+              "RelativeToolTip": "FinanceAPI\\FinanceAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-12T07:19:56.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceFrontend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\FinanceFrontend\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceFrontend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\FinanceFrontend\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-12T07:19:56.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "FinanceFrontend.csproj",
+              "DocumentMoniker": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceFrontend\\FinanceFrontend.csproj",
+              "RelativeDocumentMoniker": "..\\FinanceFrontend\\FinanceFrontend.csproj",
+              "ToolTip": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceFrontend\\FinanceFrontend.csproj",
+              "RelativeToolTip": "..\\FinanceFrontend\\FinanceFrontend.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-12T07:19:56.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "FinanceFrontend",
+              "DocumentMoniker": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceFrontend\\FinanceFrontend.csproj",
+              "RelativeDocumentMoniker": "..\\FinanceFrontend\\FinanceFrontend.csproj",
+              "ToolTip": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceFrontend\\FinanceFrontend.csproj",
+              "RelativeToolTip": "..\\FinanceFrontend\\FinanceFrontend.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-12T07:19:56.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20240208214012_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\Migrations\\20240208214012_InitialMigration.cs",
+              "RelativeDocumentMoniker": "FinanceAPI\\Migrations\\20240208214012_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\paddy\\OneDrive\\Pulpit\\.NETfinance\\FinanceBlazor-.NET\\FinanceAPI\\FinanceAPI\\Migrations\\20240208214012_InitialMigration.cs",
+              "RelativeToolTip": "FinanceAPI\\Migrations\\20240208214012_InitialMigration.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAIwHEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-12T07:19:56.68Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

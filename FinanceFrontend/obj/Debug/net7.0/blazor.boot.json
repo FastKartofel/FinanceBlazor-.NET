@@ -200,13 +200,13 @@
       "mscorlib.dll": "sha256-8OmdVHzoN7xteY5ehp0L8R17I9QxFkH2lUVHFuslE0s=",
       "netstandard.dll": "sha256-urq+e2ZQXxmOWMRxTR92529HnUVu6+kyVnfF6SoLad8=",
       "System.Private.CoreLib.dll": "sha256-ixnF\/wVKLHZM1N0lfJufpZ41EC2LvvyiSqdW43h3Xew=",
-      "FinanceFrontend.dll": "sha256-o5u157BmkAxa7cg5C+Vt1\/1nkHJWFUBws39nP+7gST4="
+      "FinanceFrontend.dll": "sha256-AnbalpphN0v\/yoy2Etk29oMrn++Q+b2sZ5+qt6hh0L0="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "FinanceFrontend.pdb": "sha256-6XFBsHvVOe7DvhDjGuL\/VczUDToS19iaYKsCwtkkOxg="
+      "FinanceFrontend.pdb": "sha256-YDsfRCe7QSKfMSfc2WnAkmClUvYAmBqEqn1Wy2bXBI8="
     },
     "runtime": {
       "dotnet.7.0.12.wddkrlhtm7.js": "sha256-cPJgWy8SjMaYFeimGkYy23ls+rDZVmoC\/eMoHpqRc+4=",

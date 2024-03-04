@@ -14,7 +14,9 @@ builder.Services.AddBlazoredLocalStorage();
 // Register a named HttpClient for interacting with your backend API
 builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri("https://localhost:7155/") });
 
-// Register AuthenticationService
+// Dependency container 
 builder.Services.AddScoped<AuthenticationService>();
+builder.Services.AddScoped<CompanyService>();
+
 
 await builder.Build().RunAsync();
